@@ -1,7 +1,7 @@
 {
   "name": "loveit-src",
   "version": "0.2.0",
-  "description": "LoveIt theme source file",
+  "description": "MissIt theme source file",
   "private": true,
   "dependencies": {},
   "devDependencies": {
@@ -36,7 +36,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dillonzq/LoveIt.git"
+    "url": "git+https://github.com/eegod/MissIt.git"
   },
   "keywords": [
     "hugo",
@@ -45,7 +45,7 @@
   "author": "Dillon",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dillonzq/LoveIt/issues"
+    "url": "https://github.com/eegod/MissIt/issues"
   },
-  "homepage": "https://github.com/dillonzq/LoveIt#readme"
+  "homepage": "https://github.com/eegod/MissIt#readme"
 }
